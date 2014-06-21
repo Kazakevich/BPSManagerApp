@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BPSBank.Admin.Clients" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEQAICAgiAABAMQMASEIAASAAAAAECAAAEAAARBAAA=</HashCode>
+      <FileName>Admin\Clients.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BPSBank.Admin.Dashboard" Collapsed="true">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAMA4AAAAAHAMAABAAAA=</HashCode>
+      <FileName>Admin\Dashboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BPSBank.Admin.Orders" Collapsed="true">
+    <Position X="2.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gRCQIIIQgjAIBBfAMACEMAETAEA4QEBAEHAMAARBJAQ=</HashCode>
+      <FileName>Admin\Orders.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BPSBank.Admin.Projects">
+    <Position X="2.25" Y="2" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ASgRIIAQwiAIBBfBIACUIAETBUAJBCCIAFAAACQJJAQ=</HashCode>
+      <FileName>Admin\Projects.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BPSBank.Admin.Services">
+    <Position X="0.75" Y="2.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AADQAIAYgiAIJBeBICCEIAASgAAYAACAEGAABCQBJAQ=</HashCode>
+      <FileName>Admin\Services.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BPSBank.Admin.Отчет_по_заказам" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAEAAAAAICAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Admin\Отчет по заказам.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BPSBank.Admin.Отчет_по_сотрудникам" Collapsed="true">
+    <Position X="5.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEACAEAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Admin\Отчет по сотрудникам.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BPSBank.Personnel" Collapsed="true">
+    <Position X="5.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASBQAIMAgiAIRhPAKCCEIABTBUAIgABAAFBEAAUBJAQ=</HashCode>
+      <FileName>Admin\Personnel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BPSBank.BPSDBDataSet" Collapsed="true">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gCEQBAAAwwAAAAJABCgASgAAAAgCQjgAAIAkAEEIBRA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BPSBank.frmLogin" Collapsed="true">
+    <Position X="0.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACBAAAAAAjAIABKBAECECAACJQAACAAAAAAEABRAAAQ=</HashCode>
+      <FileName>frmLogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BPSBank.Program" Collapsed="true">
+    <Position X="0.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BPSBank.BPSDBDataSetTableAdapters.ClientsTableAdapter" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BPSBank.BPSDBDataSetTableAdapters.OrdersTableAdapter" Collapsed="true">
+    <Position X="3.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BPSBank.BPSDBDataSetTableAdapters.PersonnelTableAdapter" Collapsed="true">
+    <Position X="7" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BPSBank.BPSDBDataSetTableAdapters.ProjectTableAdapter" Collapsed="true">
+    <Position X="5.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BPSBank.BPSDBDataSetTableAdapters.ServicesTableAdapter" Collapsed="true">
+    <Position X="5.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BPSBank.BPSDBDataSetTableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="5.5" Y="2.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="BPSBank.BPSDBDataSetTableAdapters.TableAdapterManager.UpdateOrderOption" Collapsed="true">
+        <TypeIdentifier />
+      </Enum>
+      <Class Name="BPSBank.BPSDBDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer" Collapsed="true">
+        <TypeIdentifier />
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AUAAACAAAABAFAEBABAAMAAgIAACgAIAAAQAAAEABBQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BPSBank.Properties.Resources">
+    <Position X="7" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BPSBank.Properties.Settings">
+    <Position X="3.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAACAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BPSBank.User.Dashboard" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAgAAAAAFAAAABAAAA=</HashCode>
+      <FileName>User\Dashboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BPSBank.User.Projects" Collapsed="true">
+    <Position X="3.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASCRAIMQyiAIBBeBIACUIAFSBUABBCCAAFBAAARBJAQ=</HashCode>
+      <FileName>User\Projects.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

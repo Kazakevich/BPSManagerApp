@@ -1,0 +1,161 @@
+c:\users\ирина\documents\visual studio 2012\Projects\BPSBank\BPSBank\bin\Debug\BPSBank.exe.config
+c:\users\ирина\documents\visual studio 2012\Projects\BPSBank\BPSBank\bin\Debug\BPSDB.sdf
+c:\users\ирина\documents\visual studio 2012\Projects\BPSBank\BPSBank\bin\Debug\BPSBank.exe
+c:\users\ирина\documents\visual studio 2012\Projects\BPSBank\BPSBank\bin\Debug\BPSBank.pdb
+c:\users\ирина\documents\visual studio 2012\Projects\BPSBank\BPSBank\obj\Debug\BPSBank.csprojResolveAssemblyReference.cache
+c:\users\ирина\documents\visual studio 2012\Projects\BPSBank\BPSBank\obj\Debug\BPSBank.Form1.resources
+c:\users\ирина\documents\visual studio 2012\Projects\BPSBank\BPSBank\obj\Debug\BPSBank.Properties.Resources.resources
+c:\users\ирина\documents\visual studio 2012\Projects\BPSBank\BPSBank\obj\Debug\BPSBank.Services.resources
+c:\users\ирина\documents\visual studio 2012\Projects\BPSBank\BPSBank\obj\Debug\BPSBank.csproj.GenerateResource.Cache
+c:\users\ирина\documents\visual studio 2012\Projects\BPSBank\BPSBank\obj\Debug\BPSBank.exe
+c:\users\ирина\documents\visual studio 2012\Projects\BPSBank\BPSBank\obj\Debug\BPSBank.pdb
+c:\users\ирина\documents\visual studio 2012\Projects\BPSBank\BPSBank\obj\Debug\BPSBank.Project.resources
+c:\users\ирина\documents\visual studio 2012\Projects\BPSBank\BPSBank\obj\Debug\BPSBank.Personnel.resources
+c:\users\ирина\documents\visual studio 2012\Projects\BPSBank\BPSBank\obj\Debug\BPSBank.Orders.resources
+c:\users\ирина\documents\visual studio 2012\Projects\BPSBank\BPSBank\obj\Debug\BPSBank.Отчет_по_заказам.resources
+c:\users\ирина\documents\visual studio 2012\Projects\BPSBank\BPSBank\obj\Debug\RdlCompile.cache
+c:\users\ирина\documents\visual studio 2012\Projects\BPSBank\BPSBank\obj\Debug\RdlCompile.compiled
+c:\users\ирина\documents\visual studio 2012\Projects\BPSBank\BPSBank\obj\Debug\BPSBank.Отчет_по_сотрудникам.resources
+c:\users\ирина\documents\visual studio 2012\Projects\BPSBank\BPSBank\obj\Debug\BPSBank.Отчет_по_проектам.resources
+c:\users\ирина\documents\visual studio 2012\Projects\BPSBank\BPSBank\obj\Debug\BPSBank.Clients.resources
+C:\Users\Ирина\Documents\Visual Studio 2012\Projects\BPSBank - копия\BPSBank\bin\Debug\BPSBank.exe.config
+C:\Users\Ирина\Documents\Visual Studio 2012\Projects\BPSBank - копия\BPSBank\obj\Debug\BPSBank.exe
+C:\Users\Ирина\Documents\Visual Studio 2012\Projects\BPSBank - копия\BPSBank\obj\Debug\BPSBank.pdb
+C:\Users\Ирина\Documents\Visual Studio 2012\Projects\BPSBank - копия\BPSBank\bin\Debug\BPSDB.sdf
+C:\Users\Ирина\Documents\Visual Studio 2012\Projects\BPSBank - копия\BPSBank\bin\Debug\BPSBank.exe
+C:\Users\Ирина\Documents\Visual Studio 2012\Projects\BPSBank - копия\BPSBank\bin\Debug\BPSBank.pdb
+C:\Users\Ирина\Documents\Visual Studio 2012\Projects\BPSBank - копия\BPSBank\obj\Debug\BPSBank.Clients.resources
+C:\Users\Ирина\Documents\Visual Studio 2012\Projects\BPSBank - копия\BPSBank\obj\Debug\BPSBank.Orders.resources
+C:\Users\Ирина\Documents\Visual Studio 2012\Projects\BPSBank - копия\BPSBank\obj\Debug\BPSBank.Personnel.resources
+C:\Users\Ирина\Documents\Visual Studio 2012\Projects\BPSBank - копия\BPSBank\obj\Debug\BPSBank.Project.resources
+C:\Users\Ирина\Documents\Visual Studio 2012\Projects\BPSBank - копия\BPSBank\obj\Debug\BPSBank.Properties.Resources.resources
+C:\Users\Ирина\Documents\Visual Studio 2012\Projects\BPSBank - копия\BPSBank\obj\Debug\BPSBank.Services.resources
+C:\Users\Ирина\Documents\Visual Studio 2012\Projects\BPSBank - копия\BPSBank\obj\Debug\BPSBank.Отчет_по_заказам.resources
+C:\Users\Ирина\Documents\Visual Studio 2012\Projects\BPSBank - копия\BPSBank\obj\Debug\BPSBank.Отчет_по_проектам.resources
+C:\Users\Ирина\Documents\Visual Studio 2012\Projects\BPSBank - копия\BPSBank\obj\Debug\BPSBank.Отчет_по_сотрудникам.resources
+C:\Users\Ирина\Documents\Visual Studio 2012\Projects\BPSBank - копия\BPSBank\obj\Debug\BPSBank.csproj.GenerateResource.Cache
+C:\Users\Ирина\Documents\Visual Studio 2012\Projects\BPSBank - копия\BPSBank\obj\Debug\RdlCompile.cache
+C:\Users\Ирина\Documents\Visual Studio 2012\Projects\BPSBank - копия\BPSBank\obj\Debug\RdlCompile.compiled
+C:\Users\Ирина\Documents\Visual Studio 2012\Projects\BPSBank - копия\BPSBank\obj\Debug\BPSBank.frmLogin.resources
+C:\Users\Ирина\Documents\Visual Studio 2012\Projects\BPSBank - копия\BPSBank\obj\Debug\BPSBank.frmRegister.resources
+C:\Users\Ирина\Documents\Visual Studio 2012\Projects\BPSBank - копия\BPSBank\obj\Debug\BPSBank.csprojResolveAssemblyReference.cache
+C:\Users\Ирина\Documents\Visual Studio 2012\Projects\BPSBank - копия\BPSBank\obj\Debug\BPSBank.Admin.Dashboard.resources
+C:\Users\alexi_000\Documents\GitHub\BPSBank\BPSBank\bin\Debug\BPSBank.exe.config
+C:\Users\alexi_000\Documents\GitHub\BPSBank\BPSBank\obj\Debug\BPSBank.exe
+C:\Users\alexi_000\Documents\GitHub\BPSBank\BPSBank\obj\Debug\BPSBank.pdb
+C:\Users\alexi_000\Documents\GitHub\BPSBank\BPSBank\bin\Debug\BPSDB.sdf
+C:\Users\alexi_000\Documents\GitHub\BPSBank\BPSBank\bin\Debug\BPSBank.exe
+C:\Users\alexi_000\Documents\GitHub\BPSBank\BPSBank\bin\Debug\BPSBank.pdb
+C:\Users\alexi_000\Documents\GitHub\BPSBank\BPSBank\obj\Debug\BPSBank.csprojResolveAssemblyReference.cache
+C:\Users\alexi_000\Documents\GitHub\BPSBank\BPSBank\obj\Debug\BPSBank.Admin.Dashboard.resources
+C:\Users\alexi_000\Documents\GitHub\BPSBank\BPSBank\obj\Debug\BPSBank.frmLogin.resources
+C:\Users\alexi_000\Documents\GitHub\BPSBank\BPSBank\obj\Debug\BPSBank.Personnel.resources
+C:\Users\alexi_000\Documents\GitHub\BPSBank\BPSBank\obj\Debug\BPSBank.Properties.Resources.resources
+C:\Users\alexi_000\Documents\GitHub\BPSBank\BPSBank\obj\Debug\BPSBank.Отчет_по_заказам.resources
+C:\Users\alexi_000\Documents\GitHub\BPSBank\BPSBank\obj\Debug\BPSBank.Отчет_по_проектам.resources
+C:\Users\alexi_000\Documents\GitHub\BPSBank\BPSBank\obj\Debug\BPSBank.Отчет_по_сотрудникам.resources
+C:\Users\alexi_000\Documents\GitHub\BPSBank\BPSBank\obj\Debug\BPSBank.csproj.GenerateResource.Cache
+C:\Users\alexi_000\Documents\GitHub\BPSBank\BPSBank\obj\Debug\RdlCompile.cache
+C:\Users\alexi_000\Documents\GitHub\BPSBank\BPSBank\obj\Debug\RdlCompile.compiled
+C:\Users\alexi_000\Documents\GitHub\BPSBank\BPSBank\obj\Debug\BPSBank.User.Dashboard.resources
+C:\Users\alexi_000\Documents\GitHub\BPSBank\BPSBank\obj\Debug\BPSBank.Admin.Services.resources
+C:\Users\alexi_000\Documents\GitHub\BPSBank\BPSBank\obj\Debug\BPSBank.Admin.Orders.resources
+C:\Users\alexi_000\Documents\GitHub\BPSBank\BPSBank\obj\Debug\BPSBank.Admin.Projects.resources
+C:\Users\alexi_000\Documents\GitHub\BPSBank\BPSBank\obj\Debug\BPSBank.Admin.Clients.resources
+C:\Users\alexi_000\Documents\GitHub\BPSBank\BPSBank\obj\Debug\BPSBank.User.Projects.resources
+C:\Users\Ирина\Downloads\BPSBank-master\BPSBank-master\BPSBank\bin\Debug\BPSBank.exe.config
+C:\Users\Ирина\Downloads\BPSBank-master\BPSBank-master\BPSBank\obj\Debug\BPSBank.exe
+C:\Users\Ирина\Downloads\BPSBank-master\BPSBank-master\BPSBank\obj\Debug\BPSBank.pdb
+C:\Users\Ирина\Downloads\BPSBank-master\BPSBank-master\BPSBank\obj\Debug\BPSBank.Admin.Clients.resources
+C:\Users\Ирина\Downloads\BPSBank-master\BPSBank-master\BPSBank\obj\Debug\BPSBank.Admin.Dashboard.resources
+C:\Users\Ирина\Downloads\BPSBank-master\BPSBank-master\BPSBank\obj\Debug\BPSBank.Admin.Отчет_по_сотрудникам.resources
+C:\Users\Ирина\Downloads\BPSBank-master\BPSBank-master\BPSBank\obj\Debug\BPSBank.frmLogin.resources
+C:\Users\Ирина\Downloads\BPSBank-master\BPSBank-master\BPSBank\obj\Debug\BPSBank.Admin.Orders.resources
+C:\Users\Ирина\Downloads\BPSBank-master\BPSBank-master\BPSBank\obj\Debug\BPSBank.Personnel.resources
+C:\Users\Ирина\Downloads\BPSBank-master\BPSBank-master\BPSBank\obj\Debug\BPSBank.Admin.Projects.resources
+C:\Users\Ирина\Downloads\BPSBank-master\BPSBank-master\BPSBank\obj\Debug\BPSBank.Properties.Resources.resources
+C:\Users\Ирина\Downloads\BPSBank-master\BPSBank-master\BPSBank\obj\Debug\BPSBank.Admin.Services.resources
+C:\Users\Ирина\Downloads\BPSBank-master\BPSBank-master\BPSBank\obj\Debug\BPSBank.User.Dashboard.resources
+C:\Users\Ирина\Downloads\BPSBank-master\BPSBank-master\BPSBank\obj\Debug\BPSBank.User.Projects.resources
+C:\Users\Ирина\Downloads\BPSBank-master\BPSBank-master\BPSBank\obj\Debug\BPSBank.csproj.GenerateResource.Cache
+C:\Users\Ирина\Downloads\BPSBank-master\BPSBank-master\BPSBank\obj\Debug\RdlCompile.cache
+C:\Users\Ирина\Downloads\BPSBank-master\BPSBank-master\BPSBank\obj\Debug\RdlCompile.compiled
+C:\Users\Ирина\Downloads\BPSBank-master\BPSBank-master\BPSBank\bin\Debug\BPSBank.exe
+C:\Users\Ирина\Downloads\BPSBank-master\BPSBank-master\BPSBank\bin\Debug\BPSBank.pdb
+C:\Users\Ирина\Downloads\BPSBank-master\BPSBank-master\BPSBank\obj\Debug\BPSBank.Admin.Отчет_по_заказам.resources
+D:\BPSBank-master - копия (2)\BPSBank-master\BPSBank\bin\Debug\BPSBank.exe.config
+D:\BPSBank-master - копия (2)\BPSBank-master\BPSBank\obj\Debug\BPSBank.exe
+D:\BPSBank-master - копия (2)\BPSBank-master\BPSBank\obj\Debug\BPSBank.pdb
+C:\Users\alexi_000\Documents\GitHub\BPSManagerApp\BPSBank\bin\Debug\BPSBank.exe.config
+C:\Users\alexi_000\Documents\GitHub\BPSManagerApp\BPSBank\obj\Debug\BPSBank.exe
+C:\Users\alexi_000\Documents\GitHub\BPSManagerApp\BPSBank\obj\Debug\BPSBank.pdb
+C:\Users\alexi_000\Documents\GitHub\BPSManagerApp\BPSBank\bin\Debug\BPSBank.exe
+C:\Users\alexi_000\Documents\GitHub\BPSManagerApp\BPSBank\bin\Debug\BPSBank.pdb
+C:\Users\alexi_000\Documents\GitHub\BPSManagerApp\BPSBank\obj\Debug\BPSBank.csprojResolveAssemblyReference.cache
+C:\Users\alexi_000\Documents\GitHub\BPSManagerApp\BPSBank\obj\Debug\BPSBank.Admin.Clients.resources
+C:\Users\alexi_000\Documents\GitHub\BPSManagerApp\BPSBank\obj\Debug\BPSBank.Admin.Dashboard.resources
+C:\Users\alexi_000\Documents\GitHub\BPSManagerApp\BPSBank\obj\Debug\BPSBank.Admin.Отчет_по_заказам.resources
+C:\Users\alexi_000\Documents\GitHub\BPSManagerApp\BPSBank\obj\Debug\BPSBank.Admin.Отчет_по_сотрудникам.resources
+C:\Users\alexi_000\Documents\GitHub\BPSManagerApp\BPSBank\obj\Debug\BPSBank.frmLogin.resources
+C:\Users\alexi_000\Documents\GitHub\BPSManagerApp\BPSBank\obj\Debug\BPSBank.Admin.Orders.resources
+C:\Users\alexi_000\Documents\GitHub\BPSManagerApp\BPSBank\obj\Debug\BPSBank.Personnel.resources
+C:\Users\alexi_000\Documents\GitHub\BPSManagerApp\BPSBank\obj\Debug\BPSBank.Admin.Projects.resources
+C:\Users\alexi_000\Documents\GitHub\BPSManagerApp\BPSBank\obj\Debug\BPSBank.Properties.Resources.resources
+C:\Users\alexi_000\Documents\GitHub\BPSManagerApp\BPSBank\obj\Debug\BPSBank.Admin.Services.resources
+C:\Users\alexi_000\Documents\GitHub\BPSManagerApp\BPSBank\obj\Debug\BPSBank.User.Dashboard.resources
+C:\Users\alexi_000\Documents\GitHub\BPSManagerApp\BPSBank\obj\Debug\BPSBank.User.Projects.resources
+C:\Users\alexi_000\Documents\GitHub\BPSManagerApp\BPSBank\obj\Debug\BPSBank.csproj.GenerateResource.Cache
+C:\Users\alexi_000\Documents\GitHub\BPSManagerApp\BPSBank\obj\Debug\RdlCompile.cache
+C:\Users\alexi_000\Documents\GitHub\BPSManagerApp\BPSBank\obj\Debug\RdlCompile.compiled
+C:\Users\alexi_000\Documents\GitHub\BPSManagerApp\BPSBank\bin\Debug\BPSDB.mdf
+C:\Users\alexi_000\Documents\GitHub\BPSManagerApp\BPSBank\bin\Debug\BPSDB_log.ldf
+C:\Users\alexi_000\Documents\GitHub\BPSManagerApp\BPSBank\obj\Debug\BPSBank.Admin.Архив.resources
+D:\BPSManagerApp-master\BPSManagerApp-master\BPSBank\bin\Debug\BPSBank.exe.config
+D:\BPSManagerApp-master\BPSManagerApp-master\BPSBank\obj\Debug\BPSBank.exe
+D:\BPSManagerApp-master\BPSManagerApp-master\BPSBank\obj\Debug\BPSBank.pdb
+D:\BPSManagerApp-master\BPSManagerApp-master\BPSBank\obj\Debug\BPSBank.csprojResolveAssemblyReference.cache
+D:\BPSManagerApp-master\BPSManagerApp-master\BPSBank\obj\Debug\BPSBank.Admin.Clients.resources
+D:\BPSManagerApp-master\BPSManagerApp-master\BPSBank\obj\Debug\BPSBank.Admin.Dashboard.resources
+D:\BPSManagerApp-master\BPSManagerApp-master\BPSBank\obj\Debug\BPSBank.Admin.Отчет_по_заказам.resources
+D:\BPSManagerApp-master\BPSManagerApp-master\BPSBank\obj\Debug\BPSBank.frmLogin.resources
+D:\BPSManagerApp-master\BPSManagerApp-master\BPSBank\obj\Debug\BPSBank.Admin.Orders.resources
+D:\BPSManagerApp-master\BPSManagerApp-master\BPSBank\obj\Debug\BPSBank.Personnel.resources
+D:\BPSManagerApp-master\BPSManagerApp-master\BPSBank\obj\Debug\BPSBank.Admin.Projects.resources
+D:\BPSManagerApp-master\BPSManagerApp-master\BPSBank\obj\Debug\BPSBank.Properties.Resources.resources
+D:\BPSManagerApp-master\BPSManagerApp-master\BPSBank\obj\Debug\BPSBank.Admin.Services.resources
+D:\BPSManagerApp-master\BPSManagerApp-master\BPSBank\obj\Debug\BPSBank.User.Dashboard.resources
+D:\BPSManagerApp-master\BPSManagerApp-master\BPSBank\obj\Debug\BPSBank.User.Projects.resources
+D:\BPSManagerApp-master\BPSManagerApp-master\BPSBank\obj\Debug\BPSBank.csproj.GenerateResource.Cache
+D:\BPSManagerApp-master\BPSManagerApp-master\BPSBank\bin\Debug\BPSDB.mdf
+D:\BPSManagerApp-master\BPSManagerApp-master\BPSBank\bin\Debug\BPSDB_log.ldf
+D:\BPSManagerApp-master\BPSManagerApp-master\BPSBank\bin\Debug\BPSBank.exe
+D:\BPSManagerApp-master\BPSManagerApp-master\BPSBank\bin\Debug\BPSBank.pdb
+D:\BPSManagerApp-master - копия\BPSManagerApp-master\BPSBank\bin\Debug\BPSBank.exe.config
+D:\BPSManagerApp-master - копия\BPSManagerApp-master\BPSBank\obj\Debug\BPSBank.exe
+D:\BPSManagerApp-master - копия\BPSManagerApp-master\BPSBank\obj\Debug\BPSBank.pdb
+D:\BPSManagerApp-master - копия\BPSManagerApp-master\BPSBank\bin\Debug\BPSDB.mdf
+D:\BPSManagerApp-master - копия\BPSManagerApp-master\BPSBank\bin\Debug\BPSDB_log.ldf
+D:\BPSManagerApp-master - копия\BPSManagerApp-master\BPSBank\bin\Debug\BPSBank.exe
+D:\BPSManagerApp-master - копия\BPSManagerApp-master\BPSBank\bin\Debug\BPSBank.pdb
+D:\BPSManagerApp-master - копия\BPSManagerApp-master\BPSBank\obj\Debug\BPSBank.csprojResolveAssemblyReference.cache
+D:\BPSManagerApp-master - копия\BPSManagerApp-master\BPSBank\obj\Debug\BPSBank.Admin.Clients.resources
+D:\BPSManagerApp-master - копия\BPSManagerApp-master\BPSBank\obj\Debug\BPSBank.Admin.Dashboard.resources
+D:\BPSManagerApp-master - копия\BPSManagerApp-master\BPSBank\obj\Debug\BPSBank.Admin.Отчет_по_заказам.resources
+D:\BPSManagerApp-master - копия\BPSManagerApp-master\BPSBank\obj\Debug\BPSBank.frmLogin.resources
+D:\BPSManagerApp-master - копия\BPSManagerApp-master\BPSBank\obj\Debug\BPSBank.Admin.Orders.resources
+D:\BPSManagerApp-master - копия\BPSManagerApp-master\BPSBank\obj\Debug\BPSBank.Personnel.resources
+D:\BPSManagerApp-master - копия\BPSManagerApp-master\BPSBank\obj\Debug\BPSBank.Admin.Projects.resources
+D:\BPSManagerApp-master - копия\BPSManagerApp-master\BPSBank\obj\Debug\BPSBank.Properties.Resources.resources
+D:\BPSManagerApp-master - копия\BPSManagerApp-master\BPSBank\obj\Debug\BPSBank.Admin.Services.resources
+D:\BPSManagerApp-master - копия\BPSManagerApp-master\BPSBank\obj\Debug\BPSBank.User.Dashboard.resources
+D:\BPSManagerApp-master - копия\BPSManagerApp-master\BPSBank\obj\Debug\BPSBank.User.Projects.resources
+D:\BPSManagerApp-master - копия\BPSManagerApp-master\BPSBank\obj\Debug\BPSBank.csproj.GenerateResource.Cache
+D:\BPSManagerApp-master - копия\BPSManagerApp-master\BPSBank\obj\Debug\BPSBank.Admin.Отчет_по_проектам.resources
+D:\BPSManagerApp-master - копия\BPSManagerApp-master\BPSBank\obj\Debug\RdlCompile.cache
+D:\BPSManagerApp-master - копия\BPSManagerApp-master\BPSBank\obj\Debug\RdlCompile.compiled
+D:\BPSManagerApp-master - копия\BPSManagerApp-master\BPSBank\obj\Debug\BPSBank.Admin.Отчет_по_услугам.resources
+D:\BPSManagerApp-master\BPSManagerApp-master\BPSBank\obj\Debug\BPSBank.Admin.Отчет_по_проектам.resources
+D:\BPSManagerApp-master\BPSManagerApp-master\BPSBank\obj\Debug\BPSBank.Admin.Отчет_по_услугам.resources
+D:\BPSManagerApp-master\BPSManagerApp-master\BPSBank\obj\Debug\RdlCompile.cache
+D:\BPSManagerApp-master\BPSManagerApp-master\BPSBank\obj\Debug\RdlCompile.compiled
+D:\BPSManagerApp-master\BPSManagerApp-master\BPSBank\obj\Debug\BPSBank.Admin.Архив.resources
